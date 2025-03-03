@@ -1,0 +1,8 @@
+scripts = [
+        "1_data_preprocessing.py",
+        "2_model_training.py",
+        "3_xai_visualization.py",
+        "4_real_time_detection.py",
+        "5_fact_checking.py",
+        "6_flask_app.py"
+    ]

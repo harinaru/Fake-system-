@@ -1,0 +1,42 @@
+# Ignore Python environment
+myenv/
+__pycache__/
+
+# Ignore data files
+Datasets/
+.csv
+*.log
+*.pkl
+#*.txt
+
+# Ignore compiled files
+*.pyc
+
+# Ignore VSCode settings
+.vscode/
+.idea/
+# Ignore all CSV files
+*.csv
+
+# Ignore all log files
+*.log
+
+# Ignore virtual environment
+myenv/
+venv/
+
+# Ignore cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Git LFS attributes file (if not needed)
+.gitattributes
